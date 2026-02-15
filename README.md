@@ -1,4 +1,4 @@
-# dodinstall study
+# dodinstall study day1
 <!DOCTYPE html>
 <html lang="ja">
 <head>
