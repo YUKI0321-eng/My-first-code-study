@@ -1,4 +1,5 @@
 # dodinstall study day1
+<html>
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -30,3 +31,4 @@
   </section>
   <footer>(c) dotinstall.com</footer>
 </body>
+</html>
