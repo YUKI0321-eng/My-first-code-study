@@ -1,10 +1,7 @@
 # dodinstall study day1
 <html>
 <!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="utf-8">
-  <title>My Site</title>
+<html lang="ja"> 
   <style>
     img {
       height:200px;
@@ -24,6 +21,9 @@
       text-align: center;
     }
   </style>
+<head>
+  <meta charset="utf-8">
+  <title>My Site</title>
 </head>
 <body>
   <section>
