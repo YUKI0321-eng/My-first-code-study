@@ -1,14 +1,10 @@
-# dodinstall study day1
-<html>
-<!DOCTYPE html>
-<html lang="ja"> 
-  <style>
-    img {
+img {
       height:200px;
       width:200px;
       border-radius: 50%;
     }
-    section {
+    
+  section {
       border-width: 1px;
       border-color: gray;
       border-style: solid;
@@ -20,17 +16,4 @@
     body {
       text-align: center;
     }
-  </style>
-<head>
-  <meta charset="utf-8">
-  <title>My Site</title>
-</head>
-<body>
-  <section>
-    <img src="20250113_055935124_iOS.jpg" alt="私，高橋勇輝の画像です">
-    <h1>高橋勇輝</h1>
-    <プログラミング見習いです。日々の勉強、がんばっています。</p>
-  </section>
-  <footer>(c) dotinstall.com</footer>
-</body>
-</html>
+ 
