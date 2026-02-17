@@ -2,10 +2,11 @@
 <html>
 <!DOCTYPE html>
 <html lang="ja"> 
-
 <head>
   <meta charset="utf-8">
-  <title>My Site</title>
+  <title>
+    My Site
+  </title>
 <link rel="stylesheet" href="index.css">
 </head>
 <body>
@@ -16,24 +17,5 @@
   </section>
   <footer>(c) dotinstall.com</footer>
 </body>
-<style>
-  img {
-      height:200px;
-      width:200px;
-      border-radius: 50%;
-    }
-    
-  section {
-      border-width: 1px;
-      border-color: gray;
-      border-style: solid;
-      border-radius: 8px;
-      padding: 16px;
-      margin-bottom: 8px;
-      background-image: url(background.png);
-    }
-    body {
-      text-align: center;
-    }
-</style>
+
 </html>
